@@ -1,0 +1,54 @@
+name,ring,quadrant,isNew,description
+CUDOS Dashboards,Adopt,Tools,FALSE,"<p><strong><a href=""https://www.wellarchitectedlabs.com/cost/200_labs/200_cloud_intelligence/"">A suite of cloud intelligence dashboards (CUDOS Framework) by utilising AWS Cost and Usage Report (CUR), Amazon Athena, AWS Glue, Amazon S3, and Amazon QuickSight.</strong>
+</p>"
+AFT,Adopt,Tools,FALSE,"<p><strong><a href=""https://learn.hashicorp.com/tutorials/terraform/aws-control-tower-aft"">AWS Control Tower Account Factory for Terraform (AFT)</a>  is a Terraform module that makes it easy to create and customize new accounts that comply with your organization's security guidelines. AFT defines a pipeline for automated and consistent creation of AWS Control Tower accounts, giving you the benefits of Terraform's workflow and Control Tower's governance features. AWS maintains this module.</strong>
+</p>"
+Terrascan,Adopt,Tools,FALSE,"<p><strong><a href=""https://runterrascan.io/"">terrascan</a> provides 500+ out-of-the-box policies so that you can scan IaC against common policy standards such as the CIS Benchmark. It leverages the Open Policy Agent (OPA) engine so that you can easily create custom policies using the Rego query language.</strong>
+</p>"
+GitHubActions,Adopt,Platforms,FALSE,"<p><strong><a href=""https://docs.github.com/en/actions"">GitHub Actions</a> Automate, customize, and execute your software development workflows right in your repository with GitHub Actions. You can discover, create, and share actions to perform any job you'd like, including CI/CD, and combine actions in a completely customized workflow.</strong>
+</p>"
+Central Infrastructure as Code (IAC),Adopt,Techniques,FALSE,
+Terraform,Adopt,languages-and-frameworks,FALSE,"<p><strong><a href=""https://www.terraform.io/"">Terraform</a> Automate infrastructure on any cloud with Terraform. Infrastructure automation to provision and manage resources in any cloud or data center. </strong></p>"
+OKTA,Trial,Platforms,FALSE,"<p><strong><a href=""https://www.okta.com/uk/resources/demo-library/?utm_source=google&utm_campaign=emea_uki_mult_all_all_dg-ao_emea_search_google_text_kw_it-brand-OktaExact_utm2&utm_medium=cpc&utm_id=aNK4z0000004DncGAE&gclid=CjwKCAjwhNWZBhB_EiwAPzlhNq85YHqq99v1kqmleyDnw_L2SBHEcM-p8aYH_roXyhA_9ycmj6JuLBoCAkUQAvD_BwE"">Okta</a> is the Identity and Access management platform for your Workforce and Customers.More than 13,000 organisations trust Oktaâ€™s software and API to sign in, authorise and manage users. Features provided include:<ul>
+  <li>Secure cloud single sign-on (SSO)</li>
+  <li>Offer one directory for all your users, groups and devices</li>
+  <li>Manage user profile data at scale</li>
+  <li>Create secure, seamless experiences with strong user auth</li>
+  <li>Multi-factor authentication</li>
+  <li>Manage provisioning with easy-to-implement automation</li>
+  <li>Extend modern identity to on-prem apps</li>
+  <li>B2B integration, API access management, Advanced server access...</li>
+</ul></strong>
+</p>"
+Terraform v5.0,Trial,languages-and-frameworks,FALSE,"<p><strong><a href=""https://registry.terraform.io/providers/hashicorp/aws/latest/docs/guides/version-5-upgrade"">Terraform Version 5.0.0</a> of the AWS provider for Terraform is a major release and includes changes that you need to consider when upgrading. This guide will help with that process and focuses only on changes from version 4.x to version 5.0.0. See the Version 4 Upgrade Guide for information on upgrading from 3.x to version 4.0.0 </strong></p>"
+mountpoint-S3,Assess,Tools,TRUE,"<p><strong><a href=""https://github.com/awslabs/mountpoint-s3"">mountpoint-S3</a> is a simple, high-throughput file client for mounting an s3 bucket as a local file system</strong></p>"
+Openai.com,Assess,Tools,TRUE,"<p><strong><a href=""https://openai.com/"">OpenAI</a> AI to assist with answering questions and providing information on a wide range of topics.</strong>
+</p>"
+Terragrunt,Assess,Tools,TRUE,"<p><strong><a href=""https://terragrunt.gruntwork.io/"">Terragrunt</a> s a thin wrapper that provides extra tools for keeping your configurations DRY, working with multiple Terraform modules, and managing remote state.</strong>
+</p>"
+backstage.io,Assess,Tools,TRUE,"<p><strong><a href=""https://backstage.io/"">Backstage</a> is an open source platform for building developer portals.</strong></p>"
+Cloud Carbon Footprint,Assess,Tools,TRUE,"<p><strong><a href=""https://www.cloudcarbonfootprint.org/"">Cloud Carbon Footprint</a> is an open source tool that provides visibility and tooling to measure, monitor and reduce your cloud carbon emissions. We use best practice methodologies to convert cloud utilization into estimated energy usage and carbon emissions, producing metrics and carbon savings estimates that can be shared with employees, investors, and other stakeholders.</strong>
+</p>"
+driftctl,Assess,Tools,TRUE,"<p><strong><a href=""https://driftctl.com/"">driftctl</a> is a free and open-source CLI that warns of infrastructure drift and fills in the missing piece in your DevSecOps toolbox.</strong>
+</p>"
+BuildKite CICD,Assess,Platforms,TRUE,"<p><strong><a href=""https://buildkite.com/"">Buildkite</a> is a platform for running fast, secure, and scalable continuous integration pipelines on your own infrastructure. Buildkite provides a SaaS platform to define and visualize pipelines, and an agent to execute jobs on customer-managed infrastructure.. Buildkite named a High Performer by G2</strong>
+</p>"
+ChatGPT,Assess,Platforms,TRUE,"<p><strong><a href=""https://chat.openai.com/"">ChaptGPT</a> ChatGPT is an advanced language model developed by OpenAI. It is based on the GPT (Generative Pre-trained Transformer) architecture, specifically GPT-3.5. It is designed to generate human-like responses in natural language based on the input it receives. Investigate if it could be included for quality and FinOps/SecOps suggestions in the CICD pipeline</strong>
+</p>"
+CHECKOV,Assess,Tools,TRUE,"<p><strong><a href=""https://www.checkov.io/"">checkov</a> scans cloud infrastructure configurations to find misconfigurations before they're deployed.
+Checkov uses a common command line interface to manage and analyze infrastructure as code (IaC) scan results across platforms such as Terraform, CloudFormation, Kubernetes, Helm, ARM Templates and Serverless framework.</strong>
+</p>"
+CloudGuard,Assess,Platforms,TRUE,"<p><strong><a href=""https://www.checkpoint.com/cloudguard/cloud-security-posture-management/"">CloudGuard</a></strong> for Cloud Security Posture Managementt, part of the CloudGuard Cloud Native Security platform, automates governance across multi-cloud assets and services including visualization and assessment of security posture, misconfiguration detection, and enforcement of security best practices and compliance frameworks.</p>"
+kube-score,Assess,Tools,TRUE,"<p><strong><a href=""https://kube-score.com/"">kube-score</a> is an open source tool that provides Kubernetes object analysis with recommendations for improved reliability and security. kube-score is a tool that does static code analysis of your Kubernetes object definitions. The output is a list of recommendations of what you can improve to make your application more secure and resilient. kube-score is open-source and available under the MIT-license. For more information about how to use kube-score, see zegl/kube-score on GitHub.</strong></p>"
+SonarQube,Assess,Tools,FALSE,"<p><strong><a href=""https://www.sonarqube.org/"">SonarQube</a> empowers all developers to write cleaner and safer code. Catch tricky bugs to prevent undefined behaviour from impacting end-users. Fix vulnerabilities that compromise your app, and learn AppSec along the way with Security Hotspots.Make sure your codebase is clean and maintainable, to increase developer velocity!</strong>
+</p>"
+Sonatype Nexus Repository Manager,Assess,Platforms,FALSE,"<p><strong><a href=""https://nexus3.onap.org/"">Sonatype Nexus Repository Manager</a> Manage binaries and build artifacts across your
+software supply chain.</strong></p>"
+Jfrog Artifactory,Assess,Platforms,FALSE,"<p><strong><a href=""https://jfrog.com/artifactory/"">JFROG Artifactory</a> is the single solution for housing and managing all the artifacts, binaries, packages, files, containers, and components for use throughout your software supply chain. JFrog Artifactory serves as your central hub for DevOps, integrating with your tools and processes to improve automation, increase integrity, and incorporate best practices along the way.</strong></p>"
+Three Musketeers,Trial,Techniques,TRUE,"<p><strong><a href=""https://3musketeers.io/"">3 Musketeers</a> is a pattern for developing software in a repeatable and consistent manner. It leverages Make as an orchestration tool to test, build, run, and deploy applications using Docker and Docker Compose. The Make and Docker/Compose commands for each application are maintained as part of the applicationâ€™s source code and are invoked in the same way whether run locally or on a CI/CD server.</strong></p>"
+Production data in test environments,Hold,Techniques,FALSE,"<p>We continue to perceive <b>production data in test environments</b> as an area for concern. Firstly, many examples of this have resulted in reputational damage, for example, where an incorrect alert has been sent from a test system to an entire client population. Secondly, the level of security, specifically around protection of private data, tends to be less for test systems. There is little point in having elaborate controls around access to production data if that data is copied to a test database that can be accessed by every developer and QA. Although you can obfuscate the data, this tends to be applied only to specific fields, for example, credit card numbers. Finally, copying production data to test systems can break privacy laws, for example, where test systems are hosted or accessed from a different country or region. This last scenario is especially problematic with complex cloud deployments. Fake data is a safer approach, and tools exist to help in its creation. We do recognize there are reasons for specific elements of production data to be copied, for example, in the reproduction of bugs or for training of specific ML models. Here our advice is to proceed with caution.</p>"
+snyk,Hold,Tools,TRUE,"<p><strong><a href=""https://snyk.io/product/infrastructure-as-code-security/drift-management/"">synk</a> your IaC with your cloud. Infrastructure can and still is modified post-deployment, causing deviations from whats defined in IaC and what exists in the cloud. Drift management for Snyk IaC secures your entire infrastructure lifecycle from code to cloud by detecting infrastructure drift in cloud environments and surfacing unmanaged infrastructure.</strong>
+</p>
+<p>
+<b>Assesed by Madoc Batters and deemed not suitable.</b>
+</p>"
