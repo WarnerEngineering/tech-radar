@@ -33,6 +33,8 @@ driftctl,Assess,Tools,TRUE,"<p><strong><a href=""https://driftctl.com/"">driftct
 </p>"
 BuildKite CICD,Assess,Platforms,TRUE,"<p><strong><a href=""https://buildkite.com/"">Buildkite</a> is a platform for running fast, secure, and scalable continuous integration pipelines on your own infrastructure. Buildkite provides a SaaS platform to define and visualize pipelines, and an agent to execute jobs on customer-managed infrastructure.. Buildkite named a High Performer by G2</strong>
 </p>"
+Alkira NaaS,Trial,Platforms,TRUE,"<p><strong><a href=""https://www.alkira.com/"">Alkira</a> is a Cloud Network as a service NaaS, It's the only Network platform currently offering full Infrastructure as code support for all of it's Network resources</strong>
+</p>"
 ChatGPT,Assess,Platforms,TRUE,"<p><strong><a href=""https://chat.openai.com/"">ChaptGPT</a> ChatGPT is an advanced language model developed by OpenAI. It is based on the GPT (Generative Pre-trained Transformer) architecture, specifically GPT-3.5. It is designed to generate human-like responses in natural language based on the input it receives. Investigate if it could be included for quality and FinOps/SecOps suggestions in the CICD pipeline</strong>
 </p>"
 CHECKOV,Assess,Tools,TRUE,"<p><strong><a href=""https://www.checkov.io/"">checkov</a> scans cloud infrastructure configurations to find misconfigurations before they're deployed.
