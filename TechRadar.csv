@@ -9,7 +9,7 @@ GitHubActions,Adopt,Platforms,FALSE,"<p><strong><a href=""https://docs.github.co
 </p>"
 Central Infrastructure as Code (IAC),Adopt,Techniques,FALSE,
 Terraform,Adopt,languages-and-frameworks,FALSE,"<p><strong><a href=""https://www.terraform.io/"">Terraform</a> Automate infrastructure on any cloud with Terraform. Infrastructure automation to provision and manage resources in any cloud or data center. </strong></p>"
-OKTA,Trial,Platforms,FALSE,"<p><strong><a href=""https://www.okta.com/uk/resources/demo-library/?utm_source=google&utm_campaign=emea_uki_mult_all_all_dg-ao_emea_search_google_text_kw_it-brand-OktaExact_utm2&utm_medium=cpc&utm_id=aNK4z0000004DncGAE&gclid=CjwKCAjwhNWZBhB_EiwAPzlhNq85YHqq99v1kqmleyDnw_L2SBHEcM-p8aYH_roXyhA_9ycmj6JuLBoCAkUQAvD_BwE"">Okta</a> is the Identity and Access management platform for your Workforce and Customers.More than 13,000 organisations trust Oktaâ€™s software and API to sign in, authorise and manage users. Features provided include:<ul>
+OKTA,Hold,Platforms,FALSE,"<p><strong><a href=""https://www.okta.com/uk/resources/demo-library/?utm_source=google&utm_campaign=emea_uki_mult_all_all_dg-ao_emea_search_google_text_kw_it-brand-OktaExact_utm2&utm_medium=cpc&utm_id=aNK4z0000004DncGAE&gclid=CjwKCAjwhNWZBhB_EiwAPzlhNq85YHqq99v1kqmleyDnw_L2SBHEcM-p8aYH_roXyhA_9ycmj6JuLBoCAkUQAvD_BwE"">Okta</a> is the Identity and Access management platform for your Workforce and Customers.More than 13,000 organisations trust Oktaâ€™s software and API to sign in, authorise and manage users. Features provided include:<ul>
   <li>Secure cloud single sign-on (SSO)</li>
   <li>Offer one directory for all your users, groups and devices</li>
   <li>Manage user profile data at scale</li>
@@ -37,7 +37,7 @@ Alkira NaaS,Adopt,Platforms,TRUE,"<p><strong><a href=""https://www.alkira.com/""
 </p>"
 Amazon Bedrock,Adpot,Platforms,TRUE,"<p><strong><a href=""https://aws.amazon.com/bedrock"">Bedrock</a> Amazon Bedrock Amazon Bedrock is a comprehensive, secure, and flexible service for building generative AI applications and agents. Amazon Bedrock connects you to leading foundation models (FMs), services to deploy and operate agents, and tools for fine-tuning, safeguarding, and optimizing models along with knowledge bases to connect applications to your latest data</strong>
 </p>"
-CHECKOV,Assess,Tools,TRUE,"<p><strong><a href=""https://www.checkov.io/"">checkov</a> scans cloud infrastructure configurations to find misconfigurations before they're deployed.
+CHECKOV,Hold,Tools,TRUE,"<p><strong><a href=""https://www.checkov.io/"">checkov</a> scans cloud infrastructure configurations to find misconfigurations before they're deployed.
 Checkov uses a common command line interface to manage and analyze infrastructure as code (IaC) scan results across platforms such as Terraform, CloudFormation, Kubernetes, Helm, ARM Templates and Serverless framework.</strong>
 </p>"
 CloudGuard,Assess,Platforms,TRUE,"<p><strong><a href=""https://www.checkpoint.com/cloudguard/cloud-security-posture-management/"">CloudGuard</a></strong> for Cloud Security Posture Managementt, part of the CloudGuard Cloud Native Security platform, automates governance across multi-cloud assets and services including visualization and assessment of security posture, misconfiguration detection, and enforcement of security best practices and compliance frameworks.</p>"
@@ -54,4 +54,5 @@ snyk,Hold,Tools,TRUE,"<p><strong><a href=""https://snyk.io/product/infrastructur
 <p>
 <b>Assesed by Madoc Batters and deemed not suitable.</b>
 </p>"
+
 
