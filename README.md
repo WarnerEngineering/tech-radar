@@ -4,7 +4,7 @@ The Radar is a document that sets out the changes that we think are currently in
 
 ## Who is the Technology Advisory Board (TAB)
 
-Our TAB is made up from team members of the CCOE, SRE, Platform, and Product teams
+Our TAB is made up from team members of the CCOE, SRE, Platform, Security and Product teams
 
 ## What's the structure of the Radar
 
